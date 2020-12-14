@@ -1,6 +1,6 @@
 ### image to go here!
 
-### Hi there! 👋
+## Hi there! 👋
 
 My name is Ibrahim Saidi, and ( probably like you) I love writing code. My languages of choice are R, Python and Javascript. I love building [Shiny applications](https://shiny.rstudio.com/).
 
@@ -16,6 +16,10 @@ My name is Ibrahim Saidi, and ( probably like you) I love writing code. My langu
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 <br />
 <hr />
+
+## My languages of choice 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidiibrahim)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Saidiibrahim/Saidiibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
