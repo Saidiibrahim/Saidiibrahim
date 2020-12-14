@@ -2,6 +2,9 @@
 
 ### Hi there! 👋
 
+My name is Ibrahim Saidi, and ( probably like you) I love writing code. My languages of choice are R, Python and Javascript. I love building [Shiny applications](https://shiny.rstudio.com/).
+
+<p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
