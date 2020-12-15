@@ -1,7 +1,6 @@
 
-<img src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif">
+<center><img src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif"></center>
 
-## Hi there! 👋
 
 My name is Ibrahim Saidi, and ( probably like you) I love writing code. My languages of choice are R, Python and Javascript. I love building [Shiny applications](https://shiny.rstudio.com/).
 
