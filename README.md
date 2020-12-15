@@ -1,6 +1,9 @@
 
 <center><img src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif"></center>
 
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h3>Things I code with</h3>
+<p>
 
 My name is Ibrahim Saidi, and ( probably like you) I love writing code. My languages of choice are R, Python and Javascript. I love building [Shiny applications](https://shiny.rstudio.com/).
 
