@@ -20,6 +20,8 @@ My name is Ibrahim Saidi, and ( probably like you) I love writing code. My langu
 <br />
 <hr />
 
+#### Here are some of the things I've been working on lately:
+
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Shiny development
 - 🤔 I’m looking for career advise in data science
