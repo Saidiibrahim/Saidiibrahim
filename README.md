@@ -31,6 +31,10 @@ My name is Ibrahim Saidi, and ( probably like you) I love writing code. My langu
 </ul>
 
 
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning Shiny development
+- 🤔 I’m looking for career advise in data science
+- ⚡ Fun fact:  I am fluent in Swahili 
 <!--
 **Saidiibrahim/Saidiibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
