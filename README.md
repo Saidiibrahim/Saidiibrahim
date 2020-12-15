@@ -3,6 +3,8 @@
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b> Congo DRC</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Adelaide, South Australia</b>. </p>
 
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
 My name is Ibrahim Saidi, and ( probably like you) I love writing code. My languages of choice are R, Python and Javascript. I love building [Shiny applications](https://shiny.rstudio.com/).
 
 <p align="center">
