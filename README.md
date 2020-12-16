@@ -20,13 +20,11 @@ My name is Ibrahim Saidi, and ( probably like you) I love writing code. My langu
 
 <h3> ✍ My latest posts</h3>
 <ul>
-  <li><a href="https://towardsdatascience.com/drawing-flowers-using-mathematics-d18fe27bdd2c"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Use R to make art and create imaginary flowers inspired by nature.
-</i></li>
-  <li><a href="https://medium.com/datadriveninvestor/how-to-get-financial-ratios-using-python-18131b63ef29"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
+  <li><a href="https://towardsdatascience.com/drawing-flowers-using-mathematics-d18fe27bdd2c"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Drawing Flowers Using Mathematics</b></a><br/><i>Use R to make art and create imaginary flowers inspired by nature.</i></li>
+  <li><a href="https://medium.com/datadriveninvestor/how-to-get-financial-ratios-using-python-18131b63ef29"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Get Financial Ratios Using Python</b></a><br/><i>With just a few lines of code</i></li>
+  <li><a href="https://towardsdatascience.com/visualising-the-history-of-nobel-prize-winners-570ca7c6311c"><b>Visualising The History of Nobel Prize Winners</b></a><br/><i>Exploring a dataset from Kaggle containing a century’s worth of Nobel Laureates</i></li>
   <li><a href="https://medium.com/dev-genius/hi-interested-by-a-once-in-a-lifetime-opportunity-1777c889127c"><b>Hi, Interested by a Once-in-a-Lifetime Opportunity?</b></a><br/><i>A perfectly suited job position for those aiming for the sky.</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
+  <li><a href="https://towardsdatascience.com/a-look-into-the-racial-disparities-among-police-stops-in-the-us-d770060eb3ee"><b>A Look Into The Racial Disparities Among Police Stops in The US</b></a><br/><i>Analysing the Oakland police department’s traffic stop practices with Pandas</i></li>
 </ul>
 
 #### Finally....
