@@ -1,9 +1,7 @@
 
 <center><img src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif"></center>
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b> Congo DRC</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Adelaide, South Australia</b>. </p>
-
-Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+## Welcome to my page! 
 
 My name is Ibrahim Saidi, and ( probably like you) I love writing code. My languages of choice are R, Python and Javascript. I love building [Shiny applications](https://shiny.rstudio.com/).
 
@@ -20,14 +18,6 @@ My name is Ibrahim Saidi, and ( probably like you) I love writing code. My langu
 <br />
 <hr />
 
-#### Here are some of the things I've been working on lately:
-
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Shiny development
-- 🤔 I’m looking for career advise in data science
-- ⚡ Fun fact:  I am fluent in Swahili 
-
-
 <h3> ✍ My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
@@ -37,6 +27,17 @@ My name is Ibrahim Saidi, and ( probably like you) I love writing code. My langu
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
+
+#### Finally....
+
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning Shiny development
+- 🤔 I’m hoping to launch my own business by end of 2021
+- ⚡ Fun fact:  I am fluent in Swahili 
+
+## "A day without laughter is a day wasted." - Charley Chaplin
+
+<center><img src="https://media.giphy.com/media/xUySTCEXzJdGCeIj3W/giphy.gif"></center>
 
 <!--
 **Saidiibrahim/Saidiibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
