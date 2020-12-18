@@ -3,12 +3,12 @@
 My name is Ibrahim Saidi, and (probably like you) I love writing code. I love building [Shiny applications](https://shiny.rstudio.com/).
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
+
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
+[<img height="30" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][Instagram]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-
 <br />
 <hr />
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 -->
 
 [twitter]: https://twitter.com/IbrahimSaidi94
-[linkedin]: https://www.linkedin.com/in/ibrahimsaidi/
+[Linkedin]: https://www.linkedin.com/in/ibrahimsaidi/
 [Medium]: https://ibrahimsaidi94.medium.com/
-[Facebook]: https://www.facebook.com/ibrahim.saidi.549/
 [Instagram]: https://www.instagram.com/ibra_aka_ajax/
+[Facebook]: https://www.facebook.com/ibrahim.saidi.549/
