@@ -23,10 +23,7 @@ My name is Ibrahim Saidi, and (probably like you) I love writing code. I love bu
   <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
@@ -65,8 +62,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[twitter]: https://twitter.com/IbrahimSaidi94
-[linkedin]: https://www.linkedin.com/in/ibrahimsaidi/
-[Medium]: https://ibrahimsaidi94.medium.com/
-[Facebook]: https://www.facebook.com/ibrahim.saidi.549/
-[Instagram]: https://www.instagram.com/ibra_aka_ajax/
+[TWITTER]: https://twitter.com/IbrahimSaidi94
+[LINKEDIN]: https://www.linkedin.com/in/ibrahimsaidi/
+[MEDIUM]: https://ibrahimsaidi94.medium.com/
+[FACEBOOK]: https://www.facebook.com/ibrahim.saidi.549/
+[INSTAGRAM]: https://www.instagram.com/ibra_aka_ajax/
