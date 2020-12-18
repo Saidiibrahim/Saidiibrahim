@@ -42,7 +42,7 @@ My name is Ibrahim Saidi, and (probably like you) I love writing code. I love bu
 - 🤔 I’m hoping to launch my own business by end of 2021
 - ⚡ Fun fact:  I am fluent in Swahili 
 
-## "A day without laughter is a day wasted." - Charley Chaplin
+## "A day without laughter is a day wasted." - Charlie Chaplin
 
 <center><img src="https://media.giphy.com/media/xUySTCEXzJdGCeIj3W/giphy.gif"></center>
 
