@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 
-My name is Ibrahim Saidi, and (probably like you) I love writing code. I'm also a blogger. Check out my articles [here](https://medium.com/@ibrahimsaidi94].
+My name is Ibrahim Saidi, and (probably like you) I love writing code. I'm also a blogger. Check out my articles [here](https://medium.com/@ibrahimsaidi94).
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
