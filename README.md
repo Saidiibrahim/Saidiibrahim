@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 
-My name is Ibrahim Saidi, and (probably like you) I love writing code. I love building [Shiny applications](https://shiny.rstudio.com/).
+My name is Ibrahim Saidi, and (probably like you) I love writing code. I'm also a blogger[https://medium.com/@ibrahimsaidi94).
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
@@ -14,33 +14,14 @@ My name is Ibrahim Saidi, and (probably like you) I love writing code. I love bu
 
 <h3>🚀 Things I code with</h3>
 <p>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
   <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="MARKDOWN" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-
-<h3> ✍ My latest posts</h3>
-<ul>
-  <li><a href="https://towardsdatascience.com/drawing-flowers-using-mathematics-d18fe27bdd2c"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Drawing Flowers Using Mathematics</b></a><br/><i>Use R to make art and create imaginary flowers inspired by nature.</i></li>
-  <li><a href="https://medium.com/datadriveninvestor/how-to-get-financial-ratios-using-python-18131b63ef29"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Get Financial Ratios Using Python</b></a><br/><i>With just a few lines of code</i></li>
-  <li><a href="https://towardsdatascience.com/visualising-the-history-of-nobel-prize-winners-570ca7c6311c"><b>Visualising The History of Nobel Prize Winners</b></a><br/><i>Exploring a dataset from Kaggle containing a century’s worth of Nobel Laureates</i></li>
-  <li><a href="https://medium.com/dev-genius/hi-interested-by-a-once-in-a-lifetime-opportunity-1777c889127c"><b>Hi, Interested by a Once-in-a-Lifetime Opportunity?</b></a><br/><i>A perfectly suited job position for those aiming for the sky.</i></li>
-  <li><a href="https://towardsdatascience.com/a-look-into-the-racial-disparities-among-police-stops-in-the-us-d770060eb3ee"><b>A Look Into The Racial Disparities Among Police Stops in The US</b></a><br/><i>Analysing the Oakland police department’s traffic stop practices with Pandas</i></li>
-</ul>
-
-#### Finally....
-
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Shiny development
-- 🤔 I’m hoping to launch my own business by end of 2021
-- ⚡ Fun fact:  I am fluent in Swahili 
 
 ## "A day without laughter is a day wasted." - Charlie Chaplin
 
